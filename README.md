@@ -1,1 +1,3 @@
-To launch an app run the .html file in the directory or the game you want to launch. Usually named index.html
+#HTML-Game-Scripts
+
+Not all of these are not my html scripts. This is just a collection of the scripts that worked for me. Be sure to support the origonal developers
